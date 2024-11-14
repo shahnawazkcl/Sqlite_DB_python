@@ -33,3 +33,6 @@ git push -u origin main
 ## queying
 
 - **fetch**: fetchone or fetchall/many gives us a list which can be indexed using `list[0]` etc.
+- **update**: update records using row id `sqlite/query_database_01.py` section 03.
+![alt text](update_records01.png) updated record ![alt text](update_records02.png)
+- ****: update records  using row id `sqlite/query_database_01.py` section 03. 
