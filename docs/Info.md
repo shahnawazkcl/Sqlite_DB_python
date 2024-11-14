@@ -35,4 +35,9 @@ git push -u origin main
 - **fetch**: fetchone or fetchall/many gives us a list which can be indexed using `list[0]` etc.
 - **update**: update records using row id `sqlite/query_database_01.py` section 03.
 ![alt text](update_records01.png) updated record ![alt text](update_records02.png)
-- ****: update records  using row id `sqlite/query_database_01.py` section 03. 
+- **delete**: delete/drop records  using row id `sqlite/query_database_01.py` section 04.
+
+### Refrences
+
+- [sqlite database doumentations.](https://www.sqlite.org/index.html)
+- [python sqlite3 docs](https://docs.python.org/3/library/sqlite3.html)
