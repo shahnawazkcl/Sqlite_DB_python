@@ -1,21 +1,12 @@
 # Sqlite_DB_python
 
-## …or create a new repository on the command line
+## Notes
 
-```bash
-echo "# Sqlite_DB_python" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/shahnawazkcl/Sqlite_DB_python.git
-git push -u origin main
-```
+For general notes take a look at [docs](/docs) folder.
 
-## …or push an existing repository from the command line
+## scripts
 
-```bash
-git remote add origin https://github.com/shahnawazkcl/Sqlite_DB_python.git
-git branch -M main
-git push -u origin main
-```
+- [Script 1](/sqlite/database.py): Create a database and insert one record/ row at a time.
+- [Script 2](/sqlite/database_many.py): Create a database and insert many record/ row at a time.
+- [Script 3](/sqlite/query_database.py): Query and fetch all created databases and format results.
+- [Script 4](/sqlite/query_database_01.py): Quering database using WHERE and LIKE clause.
